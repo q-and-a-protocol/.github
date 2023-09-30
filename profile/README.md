@@ -1,12 +1,21 @@
-## Hi there 👋
+# Q&A Protocol
 
-<!--
+Makes it possible to message people and pay them to reply.
 
-**Here are some ideas to get you started:**
+Feel free to just go directly to the website and see how it works: [Q&A Protocol](https://www.qandaprotocol.com/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Structure
+
+There are 3 main repositories:
+
+- [front-end](https://github.com/q-and-a-protocol/front-end)
+- [contracts](https://github.com/q-and-a-protocol/contracts)
+- [graph](https://github.com/q-and-a-protocol/graph)
+
+## Usage
+
+Our product is currently in Beta and if you'd like access or have any questions or suggestions please contact me on Twitter (https://twitter.com/arshaan_b).
+
+## Support
+
+We're lucky to be working closely with the following organizations: Polygon, Antler.
