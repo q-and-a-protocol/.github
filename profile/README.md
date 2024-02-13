@@ -2,7 +2,7 @@
 
 Makes it possible to message people and pay them to reply.
 
-Feel free to just go directly to the website and see how it works: [Q&A Protocol](https://www.qandaprotocol.com/)
+Feel free to just go directly to the website and see how it works: [Q&A Protocol](https://qandaprotocol.vercel.app/)
 
 ## Structure
 
